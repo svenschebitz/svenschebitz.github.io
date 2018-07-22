@@ -1,72 +1,66 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Sven Schebitz",
+    "label": "Employee",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "post@svenschebitz.de",
+    "phone": "",
+    "website": "https://www.svenschebitz.de",
+    "summary": "I studied Computer Science at TH Köln and graduated in January 2018. Currently I am working as a Search Engine Marketing Manager at PROMOHAFEN.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Cologne",
+      "countryCode": "Germany",
+      "region": "NRW"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "svenschebitz",
+        "url": "https://github.com/svenschebitz"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "svenschebitz",
+        "url": "http://linkedin.com/in/svenschebitz"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "shs.koeln",
+        "url": "http://twitter.com/shs.koeln"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "shs.koeln",
+        "url": "http://instagram.com/shs.koeln"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Search Engine Marketing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Google AdWords"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Space Science",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Astronauts",
+        "Spacecraft Engineering",
+        "Astronomy"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Analytics Software",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Google Analytics",
+        "Google AdWords",
+        "Post Affiliate Network"
       ]
     },
     {
@@ -83,13 +77,27 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "TH Köln",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2012-09-01",
+      "endDate": "2018-01-18",
+      "gpa": "2.5",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "British Columbia Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Semester Abroad",
+      "startDate": "2015-09-03",
+      "endDate": "2015-12-22",
       "gpa": "",
       "courses": [
+        "Webdevelopment and Design I",
+        "Webdevelopment and Design II",
+        "Technology and Society",
+        "Information, Assurance and Security"
       ]
     }
   ],
@@ -121,43 +129,22 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Voluntary Fire Brigade Cologne",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "",
+      "startDate": "2005-01-01",
+      "endDate": "2015-03-31",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Certification of AdWords Search Engine Advertising (German)",
+      "date": "2018-07-08 (1year)",
+      "awarder": "Google Academy for Ads",
+      "summary": "Knowledge of how to create and optimize Google AdWords Search Engine Ad Campaigns."
     }
   ],
   "references": [
