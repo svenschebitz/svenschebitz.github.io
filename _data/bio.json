@@ -99,6 +99,22 @@
         "Technology and Society",
         "Information, Assurance and Security"
       ]
+    },
+    {
+      "institution": "Fernuniversität Hagen",
+      "area": "Business Informatics",
+      "studyType": "Master of Science",
+      "startDate": "2018-10-01",
+      "endDate": "2020-09-30",
+      "gpa": "",
+      "courses": [
+        "E-Business Management",
+        "Knowledge Management",
+        "Grundlagen Marketing",
+        "Dienstleistungsmanagement - Kundenbeziehungsmanagement",
+        "Strategisches Marketing",
+        "IT/Business Alignment"
+      ]
     }
   ],
   "work": [
