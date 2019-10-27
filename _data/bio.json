@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sven Schebitz",
     "label": "Employee",
-    "picture": "https://svenschebitz.github.io/template/images/sven.png",
+    "picture": "https://svenschebitz.github.io/sven.JPG",
     "email": "post@svenschebitz.de",
     "phone": "+49 (0) 221 - 17 04 36 57",
     "website": "https://www.svenschebitz.de",
@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "svenschebitz",
         "url": "http://linkedin.com/in/svenschebitz"
+      },
+      {
+        "network": "xing",
+        "username": "svenschebitz",
+        "url": "https://www.xing.com/profile/Sven_Schebitz"
       },
       {
         "network": "twitter",
